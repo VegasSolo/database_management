@@ -1,0 +1,2 @@
+id    experience married wage         industry                        
+00001 -1         null    -99.9        null                            

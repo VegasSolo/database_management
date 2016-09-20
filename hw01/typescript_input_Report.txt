@@ -1,0 +1,60 @@
+Id:             00001
+Experience:     1
+Married:        no
+Wage:           1.197540205
+Industry:       Business_and_Repair_Service
+
+Id:             00004
+Experience:     4
+Married:        no
+Wage:           1.433213336
+Industry:       Business_and_Repair_Service
+
+Id:             00005
+Experience:     5
+Married:        no
+Wage:           1.56812508
+Industry:       Personal_Service
+
+Id:             00006
+Experience:     6
+Married:        no
+Wage:           1.699890942
+Industry:       Business_and_Repair_Service
+
+Id:             00007
+Experience:     7
+Married:        no
+Wage:           -0.720262576
+Industry:       Business_and_Repair_Service
+
+Id:             00008
+Experience:     8
+Married:        no
+Wage:           1.669187917
+Industry:       Business_and_Repair_Service
+
+Id:             00009
+Experience:     4
+Married:        no
+Wage:           1.675962404
+Industry:       Trade
+
+Id:             00010
+Experience:     5
+Married:        no
+Wage:           1.518398202
+Industry:       Trade
+
+Id:             00011
+Experience:     6
+Married:        no
+Wage:           1.559190477
+Industry:       Trade
+
+Id:             00012
+Experience:     7
+Married:        no
+Wage:           1.725410089
+Industry:       Trade
+
