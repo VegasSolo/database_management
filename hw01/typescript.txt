@@ -1,0 +1,243 @@
+Script started on Sat 10 Sep 2016 08:09:33 PM CDT
+dtvanbus@turing:~/db_hw1$ ls
+input.txt  main.cpp  typescript
+dtvanbus@turing:~/db_hw1$ g++ -std=c++11 main.cpp -o main
+dtvanbus@turing:~/db_hw1$ ./main
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+1
+Please type the name of the file you wish to create. Do not include extensions: 
+test
+test.txt
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+2
+Please type the name of the file you wish to open. Do not include extensions: 
+test
+test.txt was opened.
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+7
+Please enter the new record's information: 
+  Id:         1
+
+  Experience: 1
+
+  Married:    no
+
+  Wage:       1
+
+  Industry:   csce
+
+Record has been added successfully. 
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+8
+Please enter the id of the record you wish to delete: 
+1
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+3
+Database successfully closed.
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+2
+Please type the name of the file you wish to open. Do not include extensions: 
+input
+input.txt was opened.
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+5
+Please enter the id of the record you wish to update: 
+14
+
+You searched for id 00014 and we've found: 
+Experience: 9
+Married: no
+Wage: 1.60859
+Industry: Construction
+
+Please enter [1] to update Experience, 
+             [2] to update Married, 
+             [3] to update Wage, 
+             [4] to update Industry, 
+3
+Please enter the new value for wage: 
+4.11234
+Record has been updated.
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+8
+Please enter the id of the record you wish to delete: 
+2
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+8
+Please enter the id of the record you wish to delete: 
+3
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+6
+A report has been generated and stored in input_Report.txt
+
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+4
+Please insert the id that you wish to display: 
+1
+
+You searched for id 00001 and we've found: 
+Experience: 1
+Married: no
+Wage: 1.19754
+Industry: Business_and_Repair_Service
+
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+4
+Please insert the id that you wish to display: 
+2
+There is no record with the id 00002
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+4
+Please insert the id that you wish to display: 
+3
+There is no record with the id 00003
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+4
+Please insert the id that you wish to display: 
+5
+
+You searched for id 00005 and we've found: 
+Experience: 5
+Married: no
+Wage: 1.56813
+Industry: Personal_Service
+
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+3
+Database successfully closed.
+Press [ 1 ] to Create a New Database
+Press [ 2 ] to Open a Database
+Press [ 3 ] to Close the Current Database
+Press [ 4 ] to Display a Record
+Press [ 5 ] to Update a Record
+Press [ 6 ] to Create a Report
+Press [ 7 ] to Add a New Record
+Press [ 8 ] to Delete an Existing Record
+Press [ 9 ] to Quit
+9
+Quitting
+Good bye.
+dtvanbus@turing:~/db_hw1$ exit
+exit
+
+Script done on Sat 10 Sep 2016 08:12:24 PM CDT
